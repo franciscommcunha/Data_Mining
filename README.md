@@ -1,3 +1,5 @@
+A data mining project involves : pre-preocessing of the raw data, the training of the machine learning algorithm and the evaluation of the algorithm.
+
 Task A: Pre-processing
 This step incorporates one or more of the following
 	1. Mapping categorial data into numeric data
