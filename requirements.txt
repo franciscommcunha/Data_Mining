@@ -1,3 +1,5 @@
 os
 pandas
 sklearn
+yellowbrick
+seaborn
