@@ -1,5 +1,7 @@
-os
 pandas
-sklearn
+matplotlib
 yellowbrick
+sklearn
+numpy
 seaborn
+IPython
